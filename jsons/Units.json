@@ -1,13 +1,13 @@
 [
 	{
-		"name": "Phasers",
+		"name": "Rank 1",
 		"unitType": "Ranged",
 		"uniqueTo": "Aliens",
 		"replaces": "Machine Gun",
 		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
+		"strength": 100,
+		"rangedStrength": 50,
+		"range": 1,
 		"cost": 500,
 		"requiredTech": "Ballistics",
 		"requiredResource": "Uranium",
