@@ -15,3 +15,156 @@
 		"attackSound": "phasers"
 	}
 ]
+[
+        {
+                "name": "Rank 2",
+                "unitType": "Ranged",
+                "uniqueTo": "Aliens",
+                "replaces": "Machine Gun",
+                "movement": 3,
+                "strength": 200,
+                "rangedStrength": 100,
+                "range": 2,
+                "cost": 1000,
+                "requiredTech": "Ballistics",
+                "requiredResource": "Uranium",
+                "promotions": ["Logistics","Accuracy I"],
+                "attackSound": "phasers"
+        }
+]
+[
+        {
+                "name": "Rank 3",
+                "unitType": "Ranged",
+                "uniqueTo": "Aliens",
+                "replaces": "Machine Gun",
+                "movement": 4,
+                "strength": 300,
+                "rangedStrength": 150,
+                "range": 3,
+                "cost": 1500,
+                "requiredTech": "Ballistics",
+                "requiredResource": "Uranium",
+                "promotions": ["Logistics","Accuracy I"],
+                "attackSound": "phasers"
+        }
+]
+[
+        {
+                "name": "Rank 4 Dawn",
+                "unitType": "Ranged",
+                "uniqueTo": "Aliens",
+                "replaces": "Machine Gun",
+                "movement": 5,
+                "strength": 400,
+                "rangedStrength": 200,
+                "range": 4,
+                "cost": 2500,
+                "requiredTech": "Ballistics",
+                "requiredResource": "Uranium",
+                "promotions": ["Logistics","Accuracy I"],
+                "attackSound": "phasers"
+        }
+]
+[
+        {
+                "name": "Rank 5 King",
+                "unitType": "Ranged",
+                "uniqueTo": "Aliens",
+                "replaces": "Machine Gun",
+                "movement": 6,
+                "strength": 500,
+                "rangedStrength": 250,
+                "range": 5,
+                "cost": 3500,
+                "requiredTech": "Ballistics",
+                "requiredResource": "Uranium",
+                "promotions": ["Logistics","Accuracy I"],
+                "attackSound": "phasers"
+        }
+]
+[
+        {
+                "name": "Rank 6 Supreme",
+                "unitType": "Ranged",
+                "uniqueTo": "Aliens",
+                "replaces": "Machine Gun",
+                "movement": 7,
+                "strength": 600,
+                "rangedStrength": 300,
+                "range": 6,
+                "cost": 4500,
+                "requiredTech": "Ballistics",
+                "requiredResource": "Uranium",
+                "promotions": ["Logistics","Accuracy I"],
+                "attackSound": "phasers"
+        }
+]
+[
+        {
+                "name": "Rank 7 Dominator",
+                "unitType": "Ranged",
+                "uniqueTo": "Aliens",
+                "replaces": "Machine Gun",
+                "movement": 8,
+                "strength": 700,
+                "rangedStrength": 350,
+                "range": 7,
+                "cost": 6000,
+                "requiredTech": "Ballistics",
+                "requiredResource": "Uranium",
+                "promotions": ["Logistics","Accuracy I"],
+                "attackSound": "phasers"
+        }
+]
+[
+        {
+                "name": "Rank 8 Overlord",
+                "unitType": "Ranged",
+                "uniqueTo": "Aliens",
+                "replaces": "Machine Gun",
+                "movement": 9,
+                "strength": 800,
+                "rangedStrength": 400,
+                "range": 8,
+                "cost": 7500,
+                "requiredTech": "Ballistics",
+                "requiredResource": "Uranium",
+                "promotions": ["Logistics","Accuracy I"],
+                "attackSound": "phasers"
+        }
+]
+[
+        {
+                "name": "Rank 9 Legend",
+                "unitType": "Ranged",
+                "uniqueTo": "Aliens",
+                "replaces": "Machine Gun",
+                "movement": 10,
+                "strength": 900,
+                "rangedStrength": 450,
+                "range": 9,
+                "cost": 9000,
+                "requiredTech": "Ballistics",
+                "requiredResource": "Uranium",
+                "promotions": ["Logistics","Accuracy I"],
+                "attackSound": "phasers"
+        }
+]
+[
+        {
+                "name": "Rank 10 Mystic",
+                "unitType": "Ranged",
+                "uniqueTo": "Aliens",
+                "replaces": "Machine Gun",
+                "movement": 12,
+                "strength": 1100,
+                "rangedStrength": 550,
+                "range": 11,
+                "cost": 15000,
+                "requiredTech": "Ballistics",
+                "requiredResource": "Uranium",
+                "promotions": ["Logistics","Accuracy I"],
+                "attackSound": "phasers"
+        }
+]
